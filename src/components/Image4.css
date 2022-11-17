@@ -1,0 +1,19 @@
+.image4{
+    background-image: url(..//assets/Homepage-Model-X-Desktop-LHD.jpg);
+    height: 110vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.heading5{ margin-left: 90px;
+    margin-top: -35vh;
+    font-size: 6vh;
+
+}
+.heading6{
+    margin-top: -20px;
+    margin-left: 30px;
+}

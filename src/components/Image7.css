@@ -1,0 +1,14 @@
+.image7{
+    background-image: url(../assets/dd739764-bcaa-4263-9488-8c73bc9fb046.jpg);
+    height: 120vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading11{
+    /* margin-left: 90px; */
+    margin-top: -10vh;
+    font-size: 6vh;
+}
